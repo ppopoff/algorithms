@@ -1,0 +1,12 @@
+
+# vim files
+*.sw*
+
+# idea files
+*.iml
+.idea
+idea
+
+target
+build
+
